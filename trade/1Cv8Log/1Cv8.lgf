@@ -1,0 +1,19 @@
+﻿1CV8LOG(ver 2.0)
+05d53a3d-989a-4a60-89e5-ddb7bb8d6b3d
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"ASUS0052",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.RestoreStart",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{4,"_$Session$_.AuthenticationError",6},
+{1,3cf3c0c5-262d-4c75-a7d7-587ee720f9b6,"test",2},
+{13,1,2},
+{4,"_$InfoBase$_.ConfigUpdate",7},
+{4,"_$InfoBase$_.DBConfigUpdateStart",8},
+{4,"_$InfoBase$_.DBConfigUpdate",9},
+{4,"_$User$_.Update",10}
